@@ -6,7 +6,7 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiênc
 
 Aqui estão as linguagens que mais utilizo:
 
-![Linguagens]https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosaugusto222&layout=compact&theme=radical
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosaugusto222&layout=compact&theme=radical)
 
 ## Gráfico de Linguagens Usadas
 
