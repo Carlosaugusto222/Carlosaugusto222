@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Carlos Augusto 👋
 
 Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiência em diversas linguagens e frameworks, e estou sempre em busca de aprender mais e melhorar minhas habilidades.
 
