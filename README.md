@@ -10,7 +10,7 @@ Aqui estão as linguagens que mais utilizo:
 
 ## Gráfico de Linguagens Usadas
 
-![Gráfico de Linguagens](https://raw.githubusercontent.com/seuusuario/seuusuario/main/assets/languages.svg)
+![Gráfico de Linguagens](https://raw.githubusercontent.com/Carlosaugusto222/Carlosaugusto222/main/assets/languages.svg)
 
 ## Meus Últimos Projetos
 
