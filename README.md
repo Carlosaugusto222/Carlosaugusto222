@@ -10,7 +10,7 @@ Aqui estão as linguagens que mais utilizo:
 
 ## Gráfico de Linguagens Usadas
 
-![Gráfico de Linguagens](https://raw.githubusercontent.com/Carlosaugusto222/Carlosaugusto222/main/assets/languages.svg)
+![Gráfico de Linguagens](https://raw.githubusercontent.com/Carlosaugusto222/main/assets/languages.svg)
 
 ## Meus Últimos Projetos
 
@@ -19,7 +19,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 - [Projeto 1](https://github.com/Comunidade-FullDev/form-fulldev): Criador de formulário.
 - [Projeto 2](https://github.com/Carlosaugusto222/Educational-Programming-Game-for-All-Ages): Um game educacional.
 - [Projeto 3](https://github.com/Carlosaugusto222/multicell): Site de uma assistencia tecnica.
-- [Projeto 4](https://github.com/Carlosaugusto222/code-quest): um jogo sobre perguntas e respostas com logica de programação.
+- [Projeto 4](https://github.com/Carlosaugusto222/code-quest): Um jogo sobre perguntas e respostas com logica de programação.
 
 ## Apresentação Profissional
 
