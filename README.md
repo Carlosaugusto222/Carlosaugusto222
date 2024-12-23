@@ -10,7 +10,8 @@ Aqui estão as linguagens que mais utilizo:
 
 ## Gráfico de Linguagens Usadas
 
-![Gráfico de Linguagens](https://raw.githubusercontent.com/Carlosaugusto222/main/assets/languages.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosaugusto222&theme=radical&layout=compact)
+
 
 ## Meus Últimos Projetos
 
