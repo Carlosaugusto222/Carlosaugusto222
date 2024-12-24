@@ -8,6 +8,7 @@ Aqui estão as linguagens que mais utilizo:
 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosaugusto222&layout=compact&theme=radical)
 
+[![Contribuições no GitHub](https://github-readme-stats.vercel.app/api?username=Carlosaugusto222&show_icons=true&theme=radical)](https://github.com/Carlosaugusto222)
 
 ## Meus Últimos Projetos
 
