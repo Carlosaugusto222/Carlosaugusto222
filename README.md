@@ -25,5 +25,6 @@ Aqui estão alguns dos meus projetos mais recentes:
 - **Nome:** Carlos Augusto.
 - **Localização:** Pernambuco.
 - **LinkedIn:** https://www.linkedin.com/in/carlos-augusto222/
+- **Instagram:** https://www.instagram.com/carlos.au.gus.to?igsh=eWpjaHBnZ254c2Vu&utm_source=qr
 
 
