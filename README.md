@@ -1,7 +1,7 @@
 # Olá, eu sou Carlos Augusto 👋
 
 Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiência em diversas linguagens e frameworks, e estou sempre em busca de aprender mais e melhorar minhas habilidades.
-
+Sempre disposto a aprender cotinuamente.
 ## Linguagens e Tecnologias
 
 Aqui estão as linguagens que mais utilizo:
